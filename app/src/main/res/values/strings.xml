@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultiCollspantoolbarlayout</string>
+
+    <string name="single">1つの要素のCallspanToolbar</string>
+
+    <string name="vision">ハートを揺さぶるデザインで世界を前進させる</string>
+    <string name="mission">デザインの力を証明する</string>
+</resources>
